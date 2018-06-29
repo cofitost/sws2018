@@ -182,7 +182,7 @@ header {
     margin-top: 100px;
 }
 
-.register-info {
+.register-info,.poster {
     padding: 150px 0;
 }
 
@@ -213,4 +213,16 @@ header {
 
 #contact h3 span {
     font-weight: 600;
+}
+
+h3.text-center {
+    margin-bottom: 45px;
+}
+
+.poster .row h3, .poster .row h4, .poster .row p{
+    margin-bottom: 20px;
+}
+
+.poster .row p {
+    font-size: 20px;
 }
