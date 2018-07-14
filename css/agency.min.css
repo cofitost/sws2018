@@ -226,3 +226,11 @@ h3.text-center {
 .poster .row p {
     font-size: 20px;
 }
+
+.photo .row a {
+    padding: 15px;
+}
+
+.photo {
+    margin-bottom: 50px;
+}
